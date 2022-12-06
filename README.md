@@ -1,4 +1,4 @@
-# variwave
+# Variwave
 Platform for Forex indicator and automated trading system platform that can be written in C#
 
 # Introduction
