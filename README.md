@@ -17,15 +17,23 @@ Together we will survive.
 
 Phase1
 1.Backend Engine
+
   1,Market Chart System
+  
   2,Indicator System(User Customize)
+  
   3,Automated Trading System(User Customize)
+  
   2,Trading Manager System
+  
   3,MT4 Compatible System
   
 2.FrontEngine
+
   1,Chart Viewer
+  
   2,Trading Viewer
+  
   3,Indicator Viewer
 
 If you have any other features you'd like, please add them.
