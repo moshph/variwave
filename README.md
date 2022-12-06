@@ -8,9 +8,13 @@ Together we will survive.
 
 # What we want to achieve
 1,Multi-platform support with a single Indicator or Automated trading code (MT4, MT5, MatchingPlatform)
+
 2,Very fast execution speed (wish)
+
 3,Full range of technical indicator template codes
+
 4,Compatibility with machine learning
+
 5,A style of Visual C# project.
 
 # implementation
