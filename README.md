@@ -1,8 +1,8 @@
 # Variwave
-Platform for Forex indicator and automated trading system platform that can be written in python
+Platform for Forex indicator and automated trading system platform that can be written in C#
 
 # Introduction
-Variwave is an indicator and automated trading system platform that can be written in python
+Variwave is an indicator and automated trading system platform that can be written in C#
 It aims to provide a highly scalable platform for programmers who are constantly struggling with Forex market analysis.
 Together we will survive.
 
